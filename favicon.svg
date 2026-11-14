@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>Feelable</title>
+  <!-- Feelable favicon. The symbol on a 16 px grid: arc centre (8, 8), outer radius 7, stroke 2; dot centre (4.5, 9.5), diameter 7. -->
+  <rect width="16" height="16" rx="3" fill="#FAF6EF"/>
+  <path id="ripple" fill="#0A5C52" d="M3.74 2.45A7 7 0 1 1 10.68 14.47A1 1 0 0 1 9.91 12.62A5 5 0 1 0 4.96 4.03A1 1 0 0 1 3.74 2.45Z"/>
+  <circle id="dot" fill="#EC5A31" cx="4.5" cy="9.5" r="3.5"/>
+</svg>

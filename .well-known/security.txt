@@ -1,0 +1,6 @@
+# Security contact for feelable.com.au (RFC 9116).
+Contact: mailto:hello@feelable.com.au
+Contact: https://feelable.com.au/contact/
+Expires: 2027-11-01T00:00:00Z
+Preferred-Languages: en
+Canonical: https://feelable.com.au/.well-known/security.txt
